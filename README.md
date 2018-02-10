@@ -17,12 +17,12 @@ Addl information:
 
 ###Step One
 
-![step one](./step1.pxd)
+![step one](./step1.jpg)
 
 ###Step Two
 
-![step two](./step2.pxd)
+![step two](./step2.jpg)
 
 ###Step Three (Second Example)
 
-![step three](./step3.pxd)
+![step three](./step3.jpg)
