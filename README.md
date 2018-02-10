@@ -6,8 +6,11 @@ To setup, clone repo & navigate to directory in terminal.
 
 
 1.Run: `npm i` in terminal.
+
 2.Navigate to: bamazonCustomer.js - scroll several lines down until the "password: '' " line is found.  Enter your sql password in this field.
+
 3.Run: `bamazon.sql` in SQL client.
+
 4.Run: `node bamazonCustomer.js` in terminal.
 
 
